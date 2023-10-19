@@ -1,20 +1,36 @@
 {
-  "user": {
-    "id": 1,
-    "email": "prof.florien@ironhack.com",
-    "name": "Florien",
-    "last_name": "Aube",
-    "gender": "m"
-  },
-  "global_habits": {
-    "nb_succesfull": 10,
-    "nb_abbandoned": 0
-  },
-  "habits": [
+  "users": [
     {
       "id": 1,
-      "project_id": 1,
-      "description": "Use Vite to create a basic React app"
+      "email": "prof.florien@ironhack.com",
+      "name": "Florien",
+      "last_name": "Aube",
+      "gender": "m",
+      "global_habits": {
+        "nb_succesfull": 10,
+        "nb_abbandoned": 0
+      },
+      "habits": [
+        {
+          "id": 1,
+          "title": "Mediter oommm",
+          "category": "mindfulness",
+          "description": "Use Vite to create a basic React app",
+          "start_day": "Thu Oct 30 2023 00:00:00 GMT+0200 (hora de verano de Europa central)",
+          "current_streak": 0,
+          "missed": "0",
+          "cheats": 3
+        },
+        {
+          "id": 2,
+          "title": "10k steps",
+          "category": "aa bb cc dd ee",
+          "start_day": "Thu Oct 30 2023 00:00:00 GMT+0200 (hora de verano de Europa central)",
+          "current_streak": 0,
+          "missed": "0",
+          "cheats": 3
+        }
+      ]
     }
   ]
 }
