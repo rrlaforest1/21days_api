@@ -1,6 +1,6 @@
 {
-  "users": [
-    {
+  "users": {
+    "1": {
       "id": 1,
       "email": "prof.florien@ironhack.com",
       "name": "Florien",
@@ -32,5 +32,5 @@
         }
       ]
     }
-  ]
+  }
 }
