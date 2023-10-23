@@ -35,32 +35,32 @@
   "checkins": [
     {
       "id": 1,
-      "habitId": 1,
+      "my-habitId": 1,
       "date": "2023-10-20T08:23:33.548Z"
     },
     {
       "id": 2,
-      "habitId": 1,
+      "my-habitId": 1,
       "date": "2023-10-22T08:23:33.548Z"
     },
     {
       "id": 3,
-      "habitId": 1,
+      "my-habitId": 1,
       "date": "2023-10-23T08:23:33.548Z"
     },
     {
       "id": 4,
-      "habitId": 2,
+      "my-habitId": 2,
       "date": "2023-10-20T09:17:12.114Z"
     },
     {
       "id": 5,
-      "habitId": 2,
+      "my-habitId": 2,
       "date": "2023-10-21T09:17:12.114Z"
     },
     {
       "id": 6,
-      "habitId": 2,
+      "my-habitId": 2,
       "date": "2023-10-22T09:17:12.114Z"
     }
   ],
