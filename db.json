@@ -1,6 +1,6 @@
 {
-  "users": {
-    "1": {
+  "users": [
+    {
       "id": 1,
       "email": "prof.florien@ironhack.com",
       "name": "Florien",
@@ -9,28 +9,250 @@
       "global_habits": {
         "nb_succesfull": 10,
         "nb_abbandoned": 0
-      },
-      "habits": [
-        {
-          "id": 1,
-          "title": "Mediter oommm",
-          "category": "mindfulness",
-          "description": "Use Vite to create a basic React app",
-          "start_day": "Thu Oct 30 2023 00:00:00 GMT+0200 (hora de verano de Europa central)",
-          "current_streak": 0,
-          "missed": "0",
-          "cheats": 3
-        },
-        {
-          "id": 2,
-          "title": "10k steps",
-          "category": "aa bb cc dd ee",
-          "start_day": "Thu Oct 30 2023 00:00:00 GMT+0200 (hora de verano de Europa central)",
-          "current_streak": 0,
-          "missed": "0",
-          "cheats": 3
-        }
-      ]
+      }
     }
-  }
+  ],
+
+  "my_habits": [
+    {
+      "id": 1,
+      "title": "Mediter oommm",
+      "category": "emotional-state",
+      "description": "Meditation is a powerful practice that can transform your daily life. Practice mindfulness daily to reduce stress and boost mental clarity.",
+      "emoji": "🧘",
+      "start_day": "2023-10-20T08:23:33.548Z"
+    },
+    {
+      "id": 2,
+      "title": "10k steps",
+      "category": "health",
+      "description": "Strive for a healthier lifestyle by walking 10,000 steps daily. Boost your fitness and enjoy the benefits of an active life.",
+      "emoji": "🥇",
+      "start_day": "2023-10-19T09:17:12.114Z"
+    }
+  ],
+
+  "checkins": [
+    {
+      "id": 1,
+      "habitId": 1,
+      "date": "2023-10-20T08:23:33.548Z"
+    },
+    {
+      "id": 2,
+      "habitId": 1,
+      "date": "2023-10-22T08:23:33.548Z"
+    },
+    {
+      "id": 3,
+      "habitId": 1,
+      "date": "2023-10-23T08:23:33.548Z"
+    },
+    {
+      "id": 4,
+      "habitId": 2,
+      "date": "2023-10-20T09:17:12.114Z"
+    },
+    {
+      "id": 5,
+      "habitId": 2,
+      "date": "2023-10-21T09:17:12.114Z"
+    },
+    {
+      "id": 6,
+      "habitId": 2,
+      "date": "2023-10-22T09:17:12.114Z"
+    }
+  ],
+  "habits": [
+    {
+      "id": 1,
+      "title": "Meditate",
+      "category": "self-realization",
+      "description": "Calm your mind and find inner peace through daily meditation. Embrace mindfulness and reduce stress.",
+      "emoji": "🧘"
+    },
+    {
+      "id": 2,
+      "title": "Journaling",
+      "category": "self-realization",
+      "description": "Reflect on your thoughts and experiences. Keep a journal to gain clarity and self-awareness.",
+      "emoji": "📖"
+    },
+    {
+      "id": 3,
+      "title": "Gratitude Practice",
+      "category": "self-realization",
+      "description": "Count your blessings daily. Cultivate an attitude of gratitude and positivity.",
+      "emoji": "🙏"
+    },
+    {
+      "id": 4,
+      "title": "Emotional Check-In",
+      "category": "emotional-state",
+      "description": "Regularly assess your emotions and work on emotional well-being. Stay in touch with your feelings.",
+      "emoji": "😌"
+    },
+    {
+      "id": 5,
+      "title": "Stress Relief Breathing",
+      "category": "emotional-state",
+      "description": "Practice deep breathing exercises to manage stress and promote relaxation.",
+      "emoji": "🌬️"
+    },
+    {
+      "id": 6,
+      "title": "Positive Affirmations",
+      "category": "emotional-state",
+      "description": "Boost your self-esteem with daily positive affirmations. Build a strong, confident mindset.",
+      "emoji": "🌟"
+    },
+    {
+      "id": 7,
+      "title": "10,000 Steps",
+      "category": "lifestyle",
+      "description": "Strive for a healthier lifestyle by walking 10,000 steps daily. Boost your fitness and enjoy the benefits of an active life.",
+      "emoji": "🥇"
+    },
+    {
+      "id": 8,
+      "title": "Hydration Tracker",
+      "category": "lifestyle",
+      "description": "Monitor and improve your daily water intake. Stay hydrated for better health and vitality.",
+      "emoji": "💧"
+    },
+    {
+      "id": 9,
+      "title": "Digital Detox",
+      "category": "lifestyle",
+      "description": "Reduce screen time and unplug regularly. Reconnect with the real world for a healthier balance.",
+      "emoji": "📵"
+    },
+    {
+      "id": 10,
+      "title": "Healthy Eating",
+      "category": "health",
+      "description": "Make mindful food choices for a balanced diet. Nourish your body for long-term well-being.",
+      "emoji": "🥗"
+    },
+    {
+      "id": 11,
+      "title": "Morning Yoga",
+      "category": "health",
+      "description": "Start your day with a revitalizing yoga routine. Improve flexibility and physical health.",
+      "emoji": "🧘‍♀️"
+    },
+    {
+      "id": 12,
+      "title": "Mental Health Check-In",
+      "category": "health",
+      "description": "Regularly assess your mental well-being and seek support when needed. Prioritize mental health.",
+      "emoji": "🧠"
+    },
+    {
+      "id": 13,
+      "title": "Skincare Routine",
+      "category": "beauty",
+      "description": "Create a daily skincare routine for glowing, healthy skin. Self-care for a radiant complexion.",
+      "emoji": "🧴"
+    },
+    {
+      "id": 14,
+      "title": "Healthy Hair Habits",
+      "category": "beauty",
+      "description": "Care for your hair with proper routines and products. Achieve luscious locks and hair health.",
+      "emoji": "💇‍♀️"
+    },
+    {
+      "id": 15,
+      "title": "Cosmetic Cleanup",
+      "category": "beauty",
+      "description": "Declutter and organize your makeup and beauty products. Simplify your beauty routine.",
+      "emoji": "💄"
+    },
+    {
+      "id": 16,
+      "title": "Financial Planning",
+      "category": "career-and-finance",
+      "description": "Set financial goals, budget, and save. Secure your financial future with planning and discipline.",
+      "emoji": "💰"
+    },
+    {
+      "id": 17,
+      "title": "Networking Connections",
+      "category": "career-and-finance",
+      "description": "Build and maintain professional relationships. Networking is key to career growth.",
+      "emoji": "🤝"
+    },
+    {
+      "id": 18,
+      "title": "Skill Development",
+      "category": "career-and-finance",
+      "description": "Invest in your skills and knowledge. Continuous learning for career advancement.",
+      "emoji": "📚"
+    },
+    {
+      "id": 19,
+      "title": "Date Night",
+      "category": "relationships",
+      "description": "Spend quality time with your partner. Keep the romance alive with regular date nights.",
+      "emoji": "🕺💃"
+    },
+    {
+      "id": 20,
+      "title": "Family Bonding",
+      "category": "relationships",
+      "description": "Strengthen family connections with regular bonding activities. Create lasting memories.",
+      "emoji": "👨‍👩‍👦"
+    },
+    {
+      "id": 21,
+      "title": "Friendship Check-In",
+      "category": "relationships",
+      "description": "Maintain friendships and check in on loved ones. Foster strong, supportive relationships.",
+      "emoji": "👫"
+    },
+    {
+      "id": 22,
+      "title": "Reading Challenge",
+      "category": "self-development-and-education",
+      "description": "Expand your horizons with a reading challenge. Learn, grow, and escape through books.",
+      "emoji": "📚"
+    },
+    {
+      "id": 23,
+      "title": "Online Course",
+      "category": "self-development-and-education",
+      "description": "Enroll in an online course to acquire new skills and knowledge. Lifelong learning for personal growth.",
+      "emoji": "🎓"
+    },
+    {
+      "id": 24,
+      "title": "Language Learning",
+      "category": "self-development-and-education",
+      "description": "Embark on a language-learning journey. Enhance your communication skills and cultural understanding.",
+      "emoji": "🌍"
+    },
+    {
+      "id": 25,
+      "title": "Painting or Drawing",
+      "category": "hobbies",
+      "description": "Express your creativity through painting or drawing. Create art as a fulfilling hobby.",
+      "emoji": "🎨"
+    },
+    {
+      "id": 26,
+      "title": "Gardening",
+      "category": "hobbies",
+      "description": "Cultivate a garden of your own. Gardening is a relaxing and rewarding pastime.",
+      "emoji": "🌻"
+    },
+    {
+      "id": 27,
+      "title": "Photography",
+      "category": "hobbies",
+      "description": "Capture moments through photography. Explore the world and document your experiences.",
+      "emoji": "📷"
+    }
+  ]
 }
