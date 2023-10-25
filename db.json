@@ -16,11 +16,11 @@
   "my_habits": [
     {
       "id": 1,
-      "title": "Mediter oommm",
-      "category": "emotional-state",
+      "title": "Meditation",
+      "category": "emotional state",
       "description": "Meditation is a powerful practice that can transform your daily life. Practice mindfulness daily to reduce stress and boost mental clarity.",
       "emoji": "🧘",
-      "start_day": "2023-10-04T18:56:46.211Z"
+      "start_day": "2023-10-06T18:56:46.211Z"
     },
     {
       "id": 2,
@@ -28,46 +28,30 @@
       "category": "health",
       "description": "Strive for a healthier lifestyle by walking 10,000 steps daily. Boost your fitness and enjoy the benefits of an active life.",
       "emoji": "🥇",
-      "start_day": "2023-10-05T14:56:46.211Z"
+      "start_day": "2023-10-07T14:56:46.211Z"
     },
     {
-      "id": 7575757,
+      "id": 3,
       "title": "Cosmetic Cleanup",
       "category": "beauty",
       "description": "Declutter and organize your makeup and beauty products. Simplify your beauty routine.",
       "emoji": "💄",
-      "start_day": "2023-10-06T14:56:46.211Z"
+      "start_day": "2023-10-08T14:56:46.211Z"
     },
     {
-      "id": 888,
+      "id": 4,
       "title": "Gratitude Practice ",
       "category": "self-realization",
       "description": "Count your blessings daily. Cultivate an attitude of gratitude and positivity.",
       "emoji": "🙏",
-      "start_day": "2023-10-07T14:56:46.211Z"
+      "start_day": "2023-10-10T14:56:46.211Z"
     },
     {
-      "id": 99,
-      "title": "HABIT HABIT ",
-      "category": "self-realization",
-      "description": "Count your blessings daily. Cultivate an attitude of gratitude and positivity.",
-      "emoji": "🙏",
-      "start_day": "2023-10-04T14:56:46.211Z"
-    },
-    {
-      "id": 19191,
-      "title": "HABIT HABIT HABIT  ",
-      "category": "self-realization",
-      "description": "Count your blessings daily. Cultivate an attitude of gratitude and positivity.",
-      "emoji": "🙏",
-      "start_day": "2023-10-04T14:56:46.211Z"
-    },
-    {
-      "id": 666,
+      "id": 5,
       "title": "Pray everyday",
-      "category": "self-realization",
+      "category": "self realization",
       "description": "Pray everyday at night to avoid the devil's temptation",
-      "emoji": "🙏",
+      "emoji": "😇",
       "start_day": "2023-10-04T14:56:46.211Z"
     }
   ],
@@ -105,37 +89,42 @@
     },
     {
       "id": 7,
-      "my_habitId": 888,
-      "date": "2023-10-05T09:17:12.114Z"
+      "my_habitId": 3,
+      "date": "2023-10-09T09:17:12.114Z"
     },
     {
       "id": 8,
-      "my_habitId": 888,
-      "date": "2023-10-06T09:17:12.114Z"
+      "my_habitId": 3,
+      "date": "2023-10-10T09:17:12.114Z"
     },
     {
       "id": 9,
-      "my_habitId": 888,
+      "my_habitId": 3,
       "date": "2023-10-15T09:17:12.114Z"
     },
     {
+      "id": 9,
+      "my_habitId": 3,
+      "date": "2023-10-17T09:17:12.114Z"
+    },
+    {
       "id": 10,
-      "my_habitId": 888,
-      "date": "2023-10-16T09:17:12.114Z"
+      "my_habitId": 4,
+      "date": "2023-10-10T09:17:12.114Z"
     },
     {
       "id": 11,
-      "my_habitId": 7575757,
-      "date": "2023-10-16T09:17:12.114Z"
+      "my_habitId": 4,
+      "date": "2023-10-11T09:17:12.114Z"
     },
     {
       "id": 12,
-      "my_habitId": 7575757,
+      "my_habitId": 4,
       "date": "2023-10-17T09:17:12.114Z"
     },
     {
       "id": 13,
-      "my_habitId": 7575757,
+      "my_habitId": 4,
       "date": "2023-10-18T09:17:12.114Z"
     },
     {
@@ -193,42 +182,42 @@
     {
       "id": 1,
       "title": "Meditate",
-      "category": "self-realization",
+      "category": "self realization",
       "description": "Calm your mind and find inner peace through daily meditation. Embrace mindfulness and reduce stress.",
       "emoji": "🧘"
     },
     {
       "id": 2,
       "title": "Journaling",
-      "category": "self-realization",
+      "category": "self realization",
       "description": "Reflect on your thoughts and experiences. Keep a journal to gain clarity and self-awareness.",
       "emoji": "📖"
     },
     {
       "id": 3,
       "title": "Gratitude Practice",
-      "category": "self-realization",
+      "category": "self realization",
       "description": "Count your blessings daily. Cultivate an attitude of gratitude and positivity.",
       "emoji": "🙏"
     },
     {
       "id": 4,
       "title": "Emotional Check-In",
-      "category": "emotional-state",
+      "category": "emotional state",
       "description": "Regularly assess your emotions and work on emotional well-being. Stay in touch with your feelings.",
       "emoji": "😌"
     },
     {
       "id": 5,
       "title": "Stress Relief Breathing",
-      "category": "emotional-state",
+      "category": "emotional state",
       "description": "Practice deep breathing exercises to manage stress and promote relaxation.",
       "emoji": "🌬️"
     },
     {
       "id": 6,
       "title": "Positive Affirmations",
-      "category": "emotional-state",
+      "category": "emotional state",
       "description": "Boost your self-esteem with daily positive affirmations. Build a strong, confident mindset.",
       "emoji": "🌟"
     },
@@ -321,7 +310,7 @@
       "title": "Date Night",
       "category": "relationships",
       "description": "Spend quality time with your partner. Keep the romance alive with regular date nights.",
-      "emoji": "🕺💃"
+      "emoji": "👥"
     },
     {
       "id": 20,
@@ -340,21 +329,21 @@
     {
       "id": 22,
       "title": "Reading Challenge",
-      "category": "self-development-and-education",
+      "category": "education",
       "description": "Expand your horizons with a reading challenge. Learn, grow, and escape through books.",
       "emoji": "📚"
     },
     {
       "id": 23,
       "title": "Online Course",
-      "category": "self-development-and-education",
+      "category": "education",
       "description": "Enroll in an online course to acquire new skills and knowledge. Lifelong learning for personal growth.",
       "emoji": "🎓"
     },
     {
       "id": 24,
       "title": "Language Learning",
-      "category": "self-development-and-education",
+      "category": "education",
       "description": "Embark on a language-learning journey. Enhance your communication skills and cultural understanding.",
       "emoji": "🌍"
     },
