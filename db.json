@@ -61,6 +61,14 @@
       "description": "Count your blessings daily. Cultivate an attitude of gratitude and positivity.",
       "emoji": "🙏",
       "start_day": "2023-10-04T14:56:46.211Z"
+    },
+    {
+      "id": 666,
+      "title": "Pray everyday",
+      "category": "self-realization",
+      "description": "Pray everyday at night to avoid the devil's temptation",
+      "emoji": "🙏",
+      "start_day": "2023-10-04T14:56:46.211Z"
     }
   ],
 
@@ -129,6 +137,56 @@
       "id": 13,
       "my_habitId": 7575757,
       "date": "2023-10-18T09:17:12.114Z"
+    },
+    {
+      "id": 14,
+      "my_habitId": 666,
+      "date": "2023-10-15T14:56:46.211Z"
+    },
+    {
+      "id": 15,
+      "my_habitId": 666,
+      "date": "2023-10-16T14:56:46.211Z"
+    },
+    {
+      "id": 16,
+      "my_habitId": 666,
+      "date": "2023-10-17T14:56:46.211Z"
+    },
+    {
+      "id": 17,
+      "my_habitId": 666,
+      "date": "2023-10-18T14:56:46.211Z"
+    },
+    {
+      "id": 18,
+      "my_habitId": 666,
+      "date": "2023-10-19T14:56:46.211Z"
+    },
+    {
+      "id": 19,
+      "my_habitId": 666,
+      "date": "2023-10-20T14:56:46.211Z"
+    },
+    {
+      "id": 20,
+      "my_habitId": 666,
+      "date": "2023-10-21T14:56:46.211Z"
+    },
+    {
+      "id": 21,
+      "my_habitId": 666,
+      "date": "2023-10-22T14:56:46.211Z"
+    },
+    {
+      "id": 22,
+      "my_habitId": 666,
+      "date": "2023-10-23T14:56:46.211Z"
+    },
+    {
+      "id": 23,
+      "my_habitId": 666,
+      "date": "2023-10-24T14:56:46.211Z"
     }
   ],
   "habits": [
