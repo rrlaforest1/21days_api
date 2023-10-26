@@ -20,7 +20,7 @@
       "category": "emotional state",
       "description": "Meditation is a powerful practice that can transform your daily life. Practice mindfulness daily to reduce stress and boost mental clarity.",
       "emoji": "🧘",
-      "start_day": "2023-10-06T18:56:46.211Z"
+      "start_day": "2023-10-05T18:56:46.211Z"
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "category": "health",
       "description": "Strive for a healthier lifestyle by walking 10,000 steps daily. Boost your fitness and enjoy the benefits of an active life.",
       "emoji": "🥇",
-      "start_day": "2023-10-07T14:56:46.211Z"
+      "start_day": "2023-10-04T14:56:46.211Z"
     },
     {
       "id": 3,
@@ -197,19 +197,13 @@
       "emoji": "🧘"
     },
     {
-      "id": 2,
-      "title": "Journaling",
-      "category": "self realization",
-      "description": "Reflect on your thoughts and experiences. Keep a journal to gain clarity and self-awareness.",
-      "emoji": "📖"
+      "id": 9,
+      "title": "Digital Detox",
+      "category": "lifestyle",
+      "description": "Reduce screen time and unplug regularly. Reconnect with the real world for a healthier balance.",
+      "emoji": "📵"
     },
-    {
-      "id": 3,
-      "title": "Gratitude Practice",
-      "category": "self realization",
-      "description": "Count your blessings daily. Cultivate an attitude of gratitude and positivity.",
-      "emoji": "🙏"
-    },
+
     {
       "id": 4,
       "title": "Emotional Check-In",
@@ -245,13 +239,7 @@
       "description": "Monitor and improve your daily water intake. Stay hydrated for better health and vitality.",
       "emoji": "💧"
     },
-    {
-      "id": 9,
-      "title": "Digital Detox",
-      "category": "lifestyle",
-      "description": "Reduce screen time and unplug regularly. Reconnect with the real world for a healthier balance.",
-      "emoji": "📵"
-    },
+
     {
       "id": 10,
       "title": "Healthy Eating",
@@ -337,27 +325,6 @@
       "emoji": "👫"
     },
     {
-      "id": 22,
-      "title": "Reading Challenge",
-      "category": "education",
-      "description": "Expand your horizons with a reading challenge. Learn, grow, and escape through books.",
-      "emoji": "📚"
-    },
-    {
-      "id": 23,
-      "title": "Online Course",
-      "category": "education",
-      "description": "Enroll in an online course to acquire new skills and knowledge. Lifelong learning for personal growth.",
-      "emoji": "🎓"
-    },
-    {
-      "id": 24,
-      "title": "Language Learning",
-      "category": "education",
-      "description": "Embark on a language-learning journey. Enhance your communication skills and cultural understanding.",
-      "emoji": "🌍"
-    },
-    {
       "id": 25,
       "title": "Painting or Drawing",
       "category": "hobbies",
@@ -377,6 +344,20 @@
       "category": "hobbies",
       "description": "Capture moments through photography. Explore the world and document your experiences.",
       "emoji": "📷"
+    },
+    {
+      "id": 2,
+      "title": "Journaling",
+      "category": "self realization",
+      "description": "Reflect on your thoughts and experiences. Keep a journal to gain clarity and self-awareness.",
+      "emoji": "📖"
+    },
+    {
+      "id": 3,
+      "title": "Gratitude Practice",
+      "category": "self realization",
+      "description": "Count your blessings daily. Cultivate an attitude of gratitude and positivity.",
+      "emoji": "🙏"
     }
   ]
 }
