@@ -491,6 +491,13 @@
       "category": "relationships",
       "description": "Practice kindness by performing random acts of kindness for friends, family, and strangers. Spread positivity.",
       "emoji": "🤗"
+    },
+    {
+      "id": 44,
+      "title": "Be awesome",
+      "category": "lifestyle",
+      "description": "Improve your awesomeness each day little by little.",
+      "emoji": "😎"
     }
   ]
 }
