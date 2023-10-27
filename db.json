@@ -358,6 +358,139 @@
       "category": "self realization",
       "description": "Count your blessings daily. Cultivate an attitude of gratitude and positivity.",
       "emoji": "🙏"
+    },
+    {
+      "id": 90,
+      "title": "Gratitude Journal",
+      "category": "self realization",
+      "description": "Practice daily gratitude by journaling about the things you're thankful for. Cultivate a positive mindset.",
+      "emoji": "📔"
+    },
+    {
+      "id": 99,
+      "title": "Visualization Exercise",
+      "category": "self realization",
+      "description": "Use the power of visualization to manifest your goals and dreams. See your success before it happens.",
+      "emoji": "🎯"
+    },
+    {
+      "id": 100,
+      "title": "Mindful Breathing",
+      "category": "self-realization",
+      "description": "Incorporate mindful breathing exercises into your daily routine. Enhance focus and reduce stress.",
+      "emoji": "🌬️"
+    },
+    {
+      "id": 111,
+      "title": "Gratitude Practice",
+      "category": "emotional state",
+      "description": "Cultivate gratitude by reflecting on and appreciating the positive aspects of your life. Boost emotional well-being.",
+      "emoji": "🙏"
+    },
+    {
+      "id": 29,
+      "title": "Self-Compassion",
+      "category": "emotional state",
+      "description": "Practice self-compassion by being kind and forgiving to yourself. Improve self-esteem and emotional resilience.",
+      "emoji": "❤️"
+    },
+    {
+      "id": 30,
+      "title": "Emotional Resilience Training",
+      "category": "emotional state",
+      "description": "Strengthen your emotional resilience with daily exercises and strategies to bounce back from challenges.",
+      "emoji": "🛡️"
+    },
+    {
+      "id": 31,
+      "title": "Sustainable Living",
+      "category": "lifestyle",
+      "description": "Embrace sustainable living by making eco-friendly choices. Reduce your environmental impact.",
+      "emoji": "🌱"
+    },
+    {
+      "id": 32,
+      "title": "Decluttering",
+      "category": "lifestyle",
+      "description": "Simplify your life by decluttering and organizing your living spaces. Create a more peaceful environment.",
+      "emoji": "🧹"
+    },
+    {
+      "id": 33,
+      "title": "Time Management",
+      "category": "lifestyle",
+      "description": "Master time management techniques to boost productivity and reduce stress. Make the most of your day.",
+      "emoji": "⏰"
+    },
+    {
+      "id": 34,
+      "title": "Vegetarian Diet",
+      "category": "health",
+      "description": "Adopt a vegetarian diet for better health and reduced environmental impact. Explore plant-based nutrition.",
+      "emoji": "🌱"
+    },
+    {
+      "id": 35,
+      "title": "High-Intensity Interval Training (HIIT)",
+      "category": "health",
+      "description": "Incorporate HIIT workouts into your fitness routine for efficient fat burning and improved cardiovascular health.",
+      "emoji": "💪"
+    },
+    {
+      "id": 36,
+      "title": "Mindful Eating",
+      "category": "health",
+      "description": "Practice mindful eating by savoring your meals and listening to your body's hunger and fullness cues.",
+      "emoji": "🍽️"
+    },
+    {
+      "id": 37,
+      "title": "DIY Skincare",
+      "category": "beauty",
+      "description": "Create your own skincare products at home. Personalize your skincare routine and save money.",
+      "emoji": "🧖"
+    },
+    {
+      "id": 38,
+      "title": "Natural Makeup",
+      "category": "beauty",
+      "description": "Switch to natural and organic makeup products for a healthier and eco-friendly beauty routine.",
+      "emoji": "💄"
+    },
+    {
+      "id": 39,
+      "title": "Hairstyling Mastery",
+      "category": "beauty",
+      "description": "Learn the art of hairstyling. Create various hairstyles and enhance your personal grooming skills.",
+      "emoji": "💇"
+    },
+    {
+      "id": 40,
+      "title": "Investment Portfolio",
+      "category": "career and finance",
+      "description": "Diversify your investment portfolio and build financial wealth through smart investment choices.",
+      "emoji": "📈"
+    },
+    {
+      "id": 41,
+      "title": "Freelancing",
+      "category": "career and finance",
+      "description": "Start a freelancing career and explore opportunities to earn income on your terms.",
+      "emoji": "💼"
+    },
+    {
+      "id": 42,
+      "title": "Public Speaking Skills",
+      "category": "career and finance",
+      "description": "Develop your public speaking skills to boost your career and effectively communicate with confidence.",
+      "emoji": "🎙️"
+    },
+    {
+      "id": 43,
+      "title": "Random Acts of Kindness",
+      "category": "relationships",
+      "description": "Practice kindness by performing random acts of kindness for friends, family, and strangers. Spread positivity.",
+      "emoji": "🤗"
     }
   ]
 }
